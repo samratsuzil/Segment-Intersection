@@ -11,4 +11,4 @@ git clone https://github.com/samratsuzil/segment-intersection
 
 cd segment-intersection
 
-python main.py
+python3 main.py
